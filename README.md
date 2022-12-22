@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou cursando Ciência da Computação,<br>atualmente no 4º semestre<br>
+Estou cursando Ciência da Computação,<br>atualmente no 5º semestre<br>
 
 
 ## 🌐 Socials:
