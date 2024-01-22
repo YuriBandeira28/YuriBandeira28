@@ -10,6 +10,6 @@ Natural de Palmeira das Missões - RS
    - Progrmação e arte para jogos
 # 📊Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YuriBandeira28&theme=dark&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBandeira28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=YuriBandeira28&theme=dark&show_icons=true&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuriBandeira28&theme=dark&show_icons=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuriBandeira28&theme=dark&show_icons=true) |
+| :-: | :-: | :-: |
 
