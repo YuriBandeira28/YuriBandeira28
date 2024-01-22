@@ -8,7 +8,7 @@ Natural de Palmeira das Missões - RS
    - RPA
    - Análise de dados
    - Progrmação e arte para jogos
-# 📊Stats:
+     
 
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=YuriBandeira28&theme=dark&show_icons=true&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuriBandeira28&theme=dark&show_icons=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuriBandeira28&theme=dark&show_icons=true) |
 | :-: | :-: | :-: |
