@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Cursando Ciência da Computação, IFFAR - Fw<br/>
 Natural de Palmeira das Missões - RS
 
