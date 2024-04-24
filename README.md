@@ -22,7 +22,19 @@ Natural de Palmeira das Missões - RS
    - Desenvolvimento de Games
      
 ## Stats:
+
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=YuriBandeira28&theme=dark&show_icons=true&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuriBandeira28&theme=dark&show_icons=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuriBandeira28&theme=dark&show_icons=true) |
 | :-: | :-: | :-: |
 
+# TOPs repo:
+<div align="center"> 
+<a href="https://github.com/kvrolinne/LP1-FACESG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriBandeira28&repo=Solar_Sistem&theme=dark" />
+</a>
+<a href="https://github.com/kvrolinne/LP1-FACESG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriBandeira28&repo=celta_advendures&theme=dark" />
+</a>
+
+
+</div>
 
