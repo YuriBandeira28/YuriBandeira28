@@ -31,10 +31,13 @@ Natural de Palmeira das Missões - RS
 <a href="https://github.com/kvrolinne/LP1-FACESG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriBandeira28&repo=Solar_Sistem&theme=dark" />
 </a>
+&nbsp;
+&nbsp;
+&nbsp;
 <a href="https://github.com/kvrolinne/LP1-FACESG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriBandeira28&repo=celta_advendures&theme=dark" />
 </a>
 
-
 </div>
+
 
