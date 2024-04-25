@@ -28,13 +28,13 @@ Natural de Palmeira das Missões - RS
 
 # TOPs repo:
 <div align="center"> 
-<a href="https://github.com/kvrolinne/LP1-FACESG">
+<a href="https://github.com/YuriBandeira28/Solar_Sistem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriBandeira28&repo=Solar_Sistem&theme=dark" />
 </a>
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://github.com/kvrolinne/LP1-FACESG">
+<a href="https://github.com/YuriBandeira28/celta_advendures">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriBandeira28&repo=celta_advendures&theme=dark" />
 </a>
 
